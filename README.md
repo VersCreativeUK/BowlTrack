@@ -1,6 +1,6 @@
 # ![BowlTrack][logo]
 
-[logo]: http://app.bowl-track.co.uk/app-v2/core/img/logo/logo-brand-full.png
+[logo]: http://app.bowl-track.co.uk/app-v2/core/img/logo/logo-brand-full-v4-pdf.png
 
 > The new platform for Ten-Pin Bowling
 
